@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="The Rheidol Rooms"><title>The Rheidol Rooms</title>
+<path d="M10 2h44a8 8 0 0 0 8 8v44a8 8 0 0 0-8 8H10a8 8 0 0 0-8-8V10a8 8 0 0 0 8-8z" fill="#3A2E2B"/>
+<path d="M12 6h40a6 6 0 0 0 6 6v40a6 6 0 0 0-6 6H12a6 6 0 0 0-6-6V12a6 6 0 0 0 6-6z" fill="none" stroke="#C89B62" stroke-width="1.6"/>
+<path d="M17 28h25v9a10 10 0 0 1-10 10h-5a10 10 0 0 1-10-10z" fill="#EFE5D8"/>
+<path d="M42 31h3a4.5 4.5 0 0 1 0 9h-3" fill="none" stroke="#EFE5D8" stroke-width="3"/>
+<path d="M14 50h32" stroke="#C89B62" stroke-width="3" stroke-linecap="round"/>
+<path d="M24 14c-2 3 2 5 0 9M31 13c-2 3 2 5 0 9" fill="none" stroke="#C89B62" stroke-width="2.4" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 560" role="img" aria-labelledby="ht"><title id="ht">Illustration of a terraced café front with a striped awning, a coffee cup and a plate of breakfast</title>
+<defs>
+ <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F4E3C8"/><stop offset="1" stop-color="#E9CFAE"/></linearGradient>
+ <clipPath id="arch"><path d="M20 560V230C20 113 125 20 260 20s240 93 240 210v330z"/></clipPath>
+ <pattern id="brick" width="40" height="20" patternUnits="userSpaceOnUse"><rect width="40" height="20" fill="#C98B68"/><path d="M0 19.5h40M20 0v10M0 10h40M40 10v10M0 10v10" stroke="#B3765A" stroke-width="1.4"/></pattern>
+ <pattern id="awn" width="44" height="10" patternUnits="userSpaceOnUse"><rect width="22" height="10" fill="#3A2E2B"/><rect x="22" width="22" height="10" fill="#F9F4EC"/></pattern>
+</defs>
+<g clip-path="url(#arch)">
+ <rect width="520" height="560" fill="url(#sky)"/>
+ <circle cx="410" cy="120" r="46" fill="#F7D9A0"/>
+ <!-- building -->
+ <rect x="40" y="70" width="440" height="420" fill="url(#brick)"/>
+ <rect x="40" y="70" width="440" height="16" fill="#EFE5D8"/>
+ <!-- upper windows -->
+ <g fill="#F9F4EC"><rect x="88" y="110" width="84" height="110" rx="4"/><rect x="218" y="110" width="84" height="110" rx="4"/><rect x="348" y="110" width="84" height="110" rx="4"/></g>
+ <g fill="#5A4741" opacity=".85"><rect x="96" y="118" width="68" height="94"/><rect x="226" y="118" width="68" height="94"/><rect x="356" y="118" width="68" height="94"/></g>
+ <g stroke="#F9F4EC" stroke-width="4"><path d="M130 118v94M96 165h68M260 118v94M226 165h68M390 118v94M356 165h68"/></g>
+ <!-- shopfront -->
+ <rect x="56" y="240" width="408" height="250" fill="#3A2E2B"/>
+ <rect x="76" y="252" width="368" height="40" rx="3" fill="#EFE5D8"/>
+ <circle cx="96" cy="272" r="4" fill="#3A2E2B"/><circle cx="424" cy="272" r="4" fill="#3A2E2B"/>
+ <path d="M150 272h220" stroke="#8C5A3C" stroke-width="10" stroke-linecap="round" stroke-dasharray="26 12"/>
+ <!-- awning -->
+ <path d="M60 300h400l24 52H36z" fill="url(#awn)"/>
+ <path d="M36 352q12 14 24 0t24 0 24 0 24 0 24 0 24 0 24 0 24 0 24 0 24 0 24 0 24 0 24 0 24 0 24 0 24 0 24 0 24 0 24 0 24 0" fill="#3A2E2B"/>
+ <!-- windows + door -->
+ <rect x="80" y="372" width="150" height="118" fill="#F3D9A8"/>
+ <rect x="290" y="372" width="150" height="118" fill="#F3D9A8"/>
+ <path d="M155 372v118M365 372v118" stroke="#3A2E2B" stroke-width="5"/>
+ <g fill="#C89B62" opacity=".9"><circle cx="118" cy="398" r="10"/><circle cx="192" cy="398" r="10"/><circle cx="328" cy="398" r="10"/><circle cx="402" cy="398" r="10"/></g>
+ <path d="M118 388v-16M192 388v-16M328 388v-16M402 388v-16" stroke="#3A2E2B" stroke-width="2"/>
+ <rect x="236" y="364" width="48" height="126" fill="#8C5A3C"/>
+ <circle cx="274" cy="430" r="3.5" fill="#F7D9A0"/>
+ <!-- pavement -->
+ <rect y="490" width="520" height="70" fill="#E2D3C0"/>
+ <path d="M0 490h520" stroke="#C7B39B" stroke-width="3"/>
+ <!-- planters -->
+ <g><rect x="44" y="452" width="30" height="38" rx="3" fill="#5A4741"/><circle cx="59" cy="440" r="20" fill="#7E8A5A"/><circle cx="50" cy="432" r="10" fill="#929E6C"/></g>
+ <g><rect x="446" y="452" width="30" height="38" rx="3" fill="#5A4741"/><circle cx="461" cy="440" r="20" fill="#7E8A5A"/><circle cx="470" cy="432" r="10" fill="#929E6C"/></g>
+ <!-- table with breakfast -->
+ <ellipse cx="260" cy="508" rx="120" ry="16" fill="#F9F4EC"/>
+ <path d="M260 524v36" stroke="#3A2E2B" stroke-width="6"/>
+ <ellipse cx="225" cy="500" rx="44" ry="10" fill="#FFFFFF" stroke="#E2D3C0" stroke-width="2"/>
+ <ellipse cx="214" cy="497" rx="12" ry="6" fill="#FBE7B6"/><ellipse cx="214" cy="496" rx="5" ry="3" fill="#E9A23B"/>
+ <ellipse cx="238" cy="498" rx="10" ry="4" fill="#B4553A"/>
+ <path d="M290 478h34v14a10 10 0 0 1-10 10h-14a10 10 0 0 1-10-10z" fill="#EFE5D8" stroke="#3A2E2B" stroke-width="2.5"/>
+ <path d="M324 482h4a5 5 0 0 1 0 10h-4" fill="none" stroke="#3A2E2B" stroke-width="2.5"/>
+ <path d="M300 470c-3-4 3-6 0-11M312 470c-3-4 3-6 0-11" fill="none" stroke="#8C5A3C" stroke-width="2.4" stroke-linecap="round"/>
+</g>
+<path d="M20 560V230C20 113 125 20 260 20s240 93 240 210v330" fill="none" stroke="#3A2E2B" stroke-width="3" opacity=".25"/>
+</svg>
